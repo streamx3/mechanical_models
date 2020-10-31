@@ -2,7 +2,7 @@ Info:
 =====
 KS01-BV-BK by HIGHLY
 
-[[ks01-bv-grey.png]]
+![](ks01-bv-grey.png)
 
 
 Shop:

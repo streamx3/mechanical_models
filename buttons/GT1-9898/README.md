@@ -2,7 +2,7 @@ Info:
 =====
 Replacement of MSW-22 NINIGI
 
-[[gt1-9898.png]]
+![](gt1-9898.png)
 
 Dependencies:
 =============
