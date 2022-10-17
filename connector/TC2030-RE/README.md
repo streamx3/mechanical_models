@@ -1,13 +1,12 @@
 Info:
 =====
-Replacement of MSW-22 NINIGI
+Reverse engineering of TC2030-NL for 3D-printing.
+If you just found this model -- please customize according to your pogo-pins and guide wires.
 
-![](gt1-9898.png)
+![](TC2030-NL.png)
 
-Dependencies:
-=============
-https://github.com/shaise/FreeCAD_SheetMetal
 
 Shop:
 =====
-https://www.rcscomponents.kiev.ua/product/mikropereklyuchatel-gt1-9898_151902.html
+Or pay for original:
+https://www.tag-connect.com/product/tc2030-idc-nl
